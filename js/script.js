@@ -62,7 +62,7 @@ function agregarBordes(score) {
 
     element.classList.add(classes[index]);
   } else {
-    alert("Ganamos nosotros!!😎");
+    alert("Ganamos Nosotros!!😎");
     score1 = 0;
     score1Element.textContent = score1;
     window.location.reload();
